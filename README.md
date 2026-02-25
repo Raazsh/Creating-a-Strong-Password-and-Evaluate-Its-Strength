@@ -38,10 +38,12 @@ In the past, simple passwords like `12345678` or `password` were considered "sec
 
 4. **Verify Against Breaches**  
    Used [Have I Been Pwned](https://haveibeenpwned.com) → Passwords tab.  
-   - Entered the strong password.  
+   - Entered the strong password.
+   ![Have I Been Pwned](4.HaveIBeenPwned.png)
    - Result: **No matches found** in known breaches.  
    - Confirmed uniqueness and security (for now).  
-   ![Have I Been Pwned](4.HaveIBeenPwned.png)
+   
+   ![Strong Victory](5.Strong_Victory.png)
 
 ## 🔍 Key Findings
 - Weak passwords are easily flagged by modern tools and fail basic standards.
